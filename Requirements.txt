@@ -1,0 +1,18 @@
+Functionele eisen:
+-Als verkoper wil ik kunnen zien hoeveel producten er per soort op voorraad zijn zodat ik mijn reclameacties goed kan inzetten.
+-Als verkoper wil ik kunnen zien hoeveel producten er per soort nog binnenkomen zodat ik mijn reclameacties goed kan inzetten.
+-Als administrator wil ik kunnen zien wat de verkoopprijzen zijn zodat ik de administratie goed kan doen.
+-Als administrator wil ik kunnen zien wat de inkoopprijzen zijn zodat ik de administratie goed kan doen.
+-Als administrator wik ik kunnen zien wat de verkoop-aantallen per product zijn zodat ik de administratie goed kan doen.
+-Als administrator wil ik van alle personeelsleden gegevens kunnen opvragen zodat ik de administratie goed kan doen.
+-Als administrator wil ik de gegevens van alle personeelsleden kunnen aanpassen zodat ik de administratie goed kan doen.
+-Als magazijnmedewerker wil ik kunnen zien wat waar staat per bepaalde periode, zodat ik goed het magazijn kan beheren.
+-Als eigenaar wil ik dat de huidige producten (TV's, afstandsbedieningen, muurbeugels en CI-modules) door de applicatie worden bijgehouden, zodat de gegevens compleet en bruikbaar zijn.
+-Als beheerder wil ik dat er onderscheid is tussen de rechten voor de eigenaren en voor de andere personeelsleden, zodat de eigenaren alle acties kunnen doen maar ook veiligheidsrisico's beperkt worden.
+
+Niet-functionele eisen:
+-Als verkoper wil ik dat de gegevens vlug (binnen 2 seconden) worden opgehaald zodat ik ze vlug tijdens een verkooppraatje kan nazien.
+-Als verkoper wil ik dat alle gegevens overzichtelijk in tabellen worden weergegeven zodat ik tijdens het verkopen geen vergissingen maak of lang moet zoeken.
+-Als administrator wil ik de gegevens van medewerkers kunnen koppelen aan financiële gegevens zodat ik vlug en correct loonstroken kan uitdraaien.
+-Als magazijnmedewerker wil ik datums in de toekomst kunnen invoeren zodat ik de voorraden kan plannen en voorspellingen kan maken.
+-Als beheerder wil ik dat de applicatie beschermd is tegen cross-side scripting en SQL injection zodat concurrenten of misdadigers niet makkelijk toegang kunnen krijgen tot onze gegevens.
